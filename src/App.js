@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          CI/CD pipleline
+          CI/CD PiPeline
         </a>
       </header>
     </div>
