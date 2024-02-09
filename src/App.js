@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          hello amplify
+          CI/CD pipleline
         </a>
       </header>
     </div>
