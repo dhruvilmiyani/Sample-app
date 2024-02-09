@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          CI/CD PiPeline
+          CI/CD Dhruvil Pipeline
         </a>
       </header>
     </div>
