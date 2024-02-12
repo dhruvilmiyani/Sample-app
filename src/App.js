@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-           welcome To CI/CD Dhruvil Pipelines
+           Welcome To CI/CD Dhruvil Pipelines
         </a>
       </header>
     </div>
