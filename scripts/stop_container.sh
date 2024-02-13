@@ -2,5 +2,8 @@
 set -e
 
 # Stop the running container (if any)
-containerid=$(sudo docker ps -q)
-sudo docker rm -f "$containerid"
+if [ -n "$containerid" ]; then
+    sudo docker rm -f "$containerid"
+else
+    echo "No container running"
+fi
