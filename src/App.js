@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          CI/CD Pipelines
+          CI/CD Pipeline
         </a>
       </header>
     </div>
