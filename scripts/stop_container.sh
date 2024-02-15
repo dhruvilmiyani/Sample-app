@@ -2,7 +2,7 @@
 set -e
 
 # Stop the running container (if any)
-containerid=$(sudo docker ps -q)
+containerid=$(sudo docker ps -a -q)
 
 if [ -n "$containerid" ]; then 
     sudo docker rm -f "$containerid"
