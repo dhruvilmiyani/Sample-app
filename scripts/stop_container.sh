@@ -1,3 +1,4 @@
+set -e
 
 # Stop the running container (if any)
 sudo docker rm -f $(sudo docker ps -a -q)
