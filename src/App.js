@@ -18,7 +18,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          welcome to CI/CD   
+          welcome to CI/CD Pipeline  
         </a>
       </header>
     </div>
