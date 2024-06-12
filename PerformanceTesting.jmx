@@ -19,7 +19,7 @@
       </ThreadGroup>
       <hashTree>
         <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="HTTP Request">
-          <stringProp name="HTTPSampler.domain">13.201.28.111</stringProp>
+          <stringProp name="HTTPSampler.domain">13.233.9.218</stringProp>
           <stringProp name="HTTPSampler.port">3000</stringProp>
           <stringProp name="HTTPSampler.path">/</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
