@@ -18,7 +18,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          welcome to CI-CD Pipelines final-01522222 
+          welcome to jenkins CI/CD pipeline.
         </a>
       </header>
     </div>
